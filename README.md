@@ -1,3 +1,3 @@
 # EnvEye
 
-![Project Logo](logo/EnvEye.jpg)
+!(logo/EnvEye.jpg)
