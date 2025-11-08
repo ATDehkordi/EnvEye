@@ -1,3 +1,3 @@
 # EnvEye
 
-!(logo/EnvEye.jpg)
+!(Logo/EnvEye.jpg)
